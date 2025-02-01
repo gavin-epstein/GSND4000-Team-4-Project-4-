@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      placeholdertiles_0: 5162316552796119838
+      placeholdertiles_1: -766945993224600069
+      placeholdertiles_2: 7310191487859772619
+      placeholdertiles_3: -8973227869698221341
+      placeholdertiles_4: -1773301870798186281
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
