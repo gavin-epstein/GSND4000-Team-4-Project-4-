@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: eccb220e5613d8148a867ba5536d577b
+guid: 2ebbfa042b9303e45960ffc0bb5f129b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1819830194433888264
-    second: Mountain_0
+      213: 8369184199020671610
+    second: BlueTemp3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mountain_0
+      name: BlueTemp3_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 28
-        width: 133
-        height: 121
+        x: 26
+        y: 37
+        width: 163
+        height: 155
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ffec3d741aaeb6e0800000000000000
-      internalID: -1819830194433888264
+      spriteID: a72707aefa0552470800000000000000
+      internalID: 8369184199020671610
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Mountain_0: -1819830194433888264
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

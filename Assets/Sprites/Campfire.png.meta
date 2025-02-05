@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: eccb220e5613d8148a867ba5536d577b
+guid: c3e176430cbff79459842d590759497e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1819830194433888264
-    second: Mountain_0
+      213: -3591475534189650280
+    second: Campfire_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mountain_0
+      name: Campfire_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 28
-        width: 133
-        height: 121
+        x: 51
+        y: 65
+        width: 122
+        height: 135
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ffec3d741aaeb6e0800000000000000
-      internalID: -1819830194433888264
+      spriteID: 89e9e15b704882ec0800000000000000
+      internalID: -3591475534189650280
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Mountain_0: -1819830194433888264
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
